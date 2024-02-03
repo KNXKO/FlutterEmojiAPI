@@ -1,4 +1,5 @@
-# Emoji Dart Code
+# FlutterEmojiAPI
+
 
 This Dart code provides a model (`Emoji`) and methods for parsing JSON data related to emojis. It includes enums for emoji categories and groups. The primary use case seems to be handling emoji data, with parsing logic designed for a specific structure.
 
